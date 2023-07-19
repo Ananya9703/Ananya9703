@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Ananya9703
-- 👀 I’m interested in web development and app development.
-- 🌱 I’m currently learning computer science engineering (second year student)
+- 👀 I’m interested in web development and data structures.
+- 🌱 I’m currently learning computer science engineering (third year student)
 - 💞️ I’m looking to collaborate on projects that will help me learn coding and give me experience.
 - 📫 How to reach me: gmail - ananya.bhat@cumminscollege.in
 
