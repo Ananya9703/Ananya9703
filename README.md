@@ -1,4 +1,3 @@
-Credit risk classification project, 
-where we predict if taking out a loan 
-is healthy or not from two datasets:
-the original and the resampled dataset.
+-Hi, I am Ananya Bhat, a Computer Science Engineering student from India.<br />
+-I am working on my DSA (Java) and web development skills.<br />
+-You can reach me at : ananya.bhat@cumminscollege.in
